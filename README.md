@@ -1,7 +1,7 @@
 # Movie-Recommendation-System based on Ratings & Gerne
 
 SUMMARY & USAGE LICENSE
-=============================================
+
 
 MovieLens data sets were collected by the GroupLens Research Project
 at the University of Minnesota.
