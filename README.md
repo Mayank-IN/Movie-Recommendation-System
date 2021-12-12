@@ -1,5 +1,5 @@
-# Movie-Recommendation-System
-Movie is Recommending based on ratings and genre.
+# Movie-Recommendation-System based on Ratings & Gerne
+
 SUMMARY & USAGE LICENSE
 =============================================
 
